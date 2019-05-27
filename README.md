@@ -14,4 +14,4 @@ Add these two files in same folder and run the python code after you scan the QR
 
 5- You must have dowloaded Selenium as well. You can use the command - `pip3 install selenium` to download selenium
 
-6- You must have dowloaded the webdriver manager. Use command - `pip3 install webdriver-manager` to download this. If you still face any issues then you can comment on 
+6- You must have dowloaded the webdriver manager. Use command - `pip3 install webdriver-manager` to download this. If you still face any issues then you can comment on https://blog.learningdollars.com/2019/05/27/how-to-print-your-whatsapp-recent-contacts-using-python-selenium-and-web-driver/
