@@ -1,5 +1,7 @@
 # vivekdw-project
 whatsapp_recentcontacts_python
+
+
 Add these two files in same folder and run the python code after you scan the QR code (to login in whatsapp ) you can see your recent contact list in the terminal. Few points to note that :
 
 1- You must be using python3 to run the code
