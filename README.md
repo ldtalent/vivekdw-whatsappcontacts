@@ -12,6 +12,6 @@ Add these two files in same folder and run the python code after you scan the QR
 
 4- I built this code to leverage Google Chrome driver.
 
-5- You must have dowloaded Selenium as well. You can use the command - pip3 install selenium to download selenium
+5- You must have dowloaded Selenium as well. You can use the command - `pip3 install selenium` to download selenium
 
-6- You must have dowloaded the webdriver manager. Use command - pip3 install webdriver-manager to download this. If you still face any issues then you can comment on 
+6- You must have dowloaded the webdriver manager. Use command - `pip3 install webdriver-manager` to download this. If you still face any issues then you can comment on 
