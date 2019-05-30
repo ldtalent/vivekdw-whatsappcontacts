@@ -15,9 +15,9 @@ Points to note before you run the script :-
 
 4- I built this code to leverage Google Chrome driver.
 
-5- You must have dowloaded Selenium as well. You can use the command - `pip3 install selenium` to download selenium
+5- You must have downloaded Selenium as well. You can use the command - `pip3 install selenium` to download selenium
 
-6- You must have dowloaded the webdriver manager. Use command - `pip3 install  webdriver-manager` to download this.
+6- You must have downloaded the webdriver manager. Use command - `pip3 install  webdriver-manager` to download this.
 
 7- As we are Excel file here (tt.xlxs)so you must have downloded openpyxl . Use command - pip3 install openpyxl to download this.
 8- In tt.xlxs file you have to mention the name that are saved in your contactlist.
