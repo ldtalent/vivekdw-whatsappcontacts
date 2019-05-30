@@ -1,8 +1,10 @@
 
 # vivekdw-project
-send_whatsapp_message_using_python:- 
+Send Whatsapp Message using Python 
+
 
 ////////////////////////////////////////////////////////////////////////////////////
+
 Points to note before you run the script :- 
 
 1- You must be using python3 to run the code
@@ -21,6 +23,7 @@ Points to note before you run the script :-
 8- In tt.xlxs file you have to mention the name that are saved in your contactlist.
 
 Now you are good to go .
+
 //////////////////////////////////////////////////////////////////////////////////////////
 
 How to run -
@@ -30,6 +33,7 @@ Download or clone these three file in same folder.In this file named tt.xlxs is 
 /////////////////////////////////////////////////////////////////////////////////////
 
 Note that this tutorial is only for educational purpose. We are not responsible if you friends or whatsapp itself blocks you for excess use of this.
+
 /////////////////////////////////////////////////////////////////////////////////////////
 
 If you are still facing any issue you can comment on the post <enter link here> I will be more than happy to help you.
