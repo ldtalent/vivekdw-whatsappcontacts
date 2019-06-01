@@ -35,7 +35,5 @@ Now Python Code will be executed and task will be completed . After that tab wil
 
 Note that this tutorial is only for educational purpose. We are not responsible if you friends or whatsapp itself blocks you for excess use of this.
 
-/////////////////////////////////////////////////////////////////////////////////////////
-
 If you are still facing any issue you can comment on the post <enter link here> I will be more than happy to help you.
 
