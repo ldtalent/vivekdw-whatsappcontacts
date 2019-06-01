@@ -21,7 +21,7 @@ Now you are good to go .
 
 How to run -
 
-Download or clone these two file in same folder.Now Excute using terminnal  whatsapp_sendmessage.py using python3 and
+Download or clone these two file in same folder.Now Excute using terminnal  WhatsappBomber.py using python3 and
 
 1- Scan the QR code to login in whatsapp and swithc to terminal 
 
